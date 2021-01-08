@@ -8,7 +8,7 @@ export default function Home() {
         alt="jocker" 
         className="absolute object-cover w-full h-full"/>
         <section className="relative flex justify-center min-h-screen pt-12 lg:pt-64 px-8">
-            <h2 className="text-4xl text-blue-800 font-bold cursive leading-none lg:leading-snug home-name">Hi. I'm Rezzakk</h2>
+            <h1 className="text-6xl text-blue-600 font-bold cursive leading-none lg:leading-snug home-name">I'm Rezzakk</h1>
         </section>
     </main>)
 }
